@@ -1,0 +1,6 @@
+kind: Secret
+apiVersion: v1
+metadata:
+  name: open-webui-secret
+stringData:
+  web-secret: ""
